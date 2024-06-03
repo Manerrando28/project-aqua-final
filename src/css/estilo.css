@@ -140,3 +140,13 @@ header{
         filter:drop-shadow(var(--text-color1)0 0 2rem);
     }
 }
+.titulo2 { 
+font-size: 4.0rem;
+text-transform: uppercase;
+color: var(--text-color2);
+}
+/* Aumentar o tamanho dos textos em letras minúsculas */
+p:not(.titulo1):not(.titulo2) {
+    text-transform: lowercase;
+    font-size: 1.2rem; /* Ajuste o tamanho conforme necessário */
+}
