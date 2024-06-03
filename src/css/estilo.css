@@ -150,3 +150,9 @@ p:not(.titulo1):not(.titulo2) {
     text-transform: lowercase;
     font-size: 1.2rem; /* Ajuste o tamanho conforme necessário */
 }
+p:not(.titulo1):not(.titulo2) {
+    text-transform: lowercase;
+    font-size: 1.2rem; /* Ajuste o tamanho conforme necessário */
+}
+
+
